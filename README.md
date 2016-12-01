@@ -2,7 +2,13 @@
 
 CTO of iNDIEVOX
 
-## GitHub Repos
+## About
+
+我是林志傑，網路上常用的名字是 Fukuball，現任 iNDIEVOX 技術長，iNDIEVOX 是目前台灣最大的獨立音樂網路商店，販售高音質數位音樂下載及演唱會售票。我使用 PHP 及 Python，最近對機器學習感到興趣，所以空閒時會將 Python 有關機器學習的 Github Project 翻譯成 PHP 版本。
+
+我也是一個快樂的吉他手～
+
+## Repos
 
 ### [jieba-php](hhttp://www.fukuball.com/jieba-php/)
 
