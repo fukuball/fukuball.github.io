@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 title = "I am Fukuball"
 theme = "hugo-tranquilpeak-theme"
 # disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-41911929-1"
 paginate = 7
 canonifyurls = true
 
