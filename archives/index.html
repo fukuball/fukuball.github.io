@@ -19,21 +19,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="generator" content="Hugo 0.24">
     <meta name="theme" content="Tranquilpeak 0.3.1-BETA">
-    <title>I am Fukuball</title>
+    <title>Archives</title>
     <meta name="author" content="Fukuball">
     <meta name="keywords" content="">
 
     <link rel="icon" href="images/favicon.ico">
     
-      <link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.fukuball.com/index.xml">
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.fukuball.com/archives/index.xml">
     
 
     
     <meta name="description" content="Hugo tranquilpeak theme demo">
     <meta property="og:description" content="Hugo tranquilpeak theme demo">
     <meta property="og:type" content="blog">
-    <meta property="og:title" content="I am Fukuball">
-    <meta property="og:url" content="/">
+    <meta property="og:title" content="Archives">
+    <meta property="og:url" content="/archives/">
     <meta property="og:site_name" content="I am Fukuball">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="I am Fukuball">
@@ -167,24 +167,19 @@
   </div>
 </nav>
 
-      
-
       <div id="main" data-behavior="1"
         class="
                hasCoverMetaIn
                ">
-        <section class="postShorten-group main-content-wrap">
-          
-          
-          
-
-        </section>
-        <footer id="footer" class="main-content-wrap">
-  <span class="copyrights">
-    &copy; 2017 Fukuball. All Rights Reserved
-  </span>
-</footer>
-
+        <div id="archives" class="main-content-wrap">
+          <form id="filter-form" action="#">
+            <input name="date" type="text" class="form-control input--xlarge" placeholder="Search date (YYYY/MM/DD)" autofocus="autofocus">
+          </form>
+          <h5 class="archive-result text-color-base text-xlarge" data-message-zero="no post found" data-message-one="1 post found" data-message-other="{n} posts found"></h5>
+<section class="boxes">
+  
+</section>
+        </div>
       </div>
     </div>
     
@@ -290,3 +285,4 @@ $(document).ready(function() {
     
   </body>
 </html>
+

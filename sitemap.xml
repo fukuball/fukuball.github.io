@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.fukuball.com/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fukuball.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fukuball.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fukuball.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.fukuball.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
