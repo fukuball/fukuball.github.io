@@ -30,11 +30,6 @@
             </p>
         </div>
     </div>
-    <a href="https://www.obeobeko.com/" target="_blank">
-        <div class="postShorten-thumbnailimg">
-            <img alt="" itemprop="image" src="https://www.obeobeko.com/img/logo_with_words_960.png">
-        </div>
-    </a>
 </article>
 <hr>
 <article class="postShorten postShorten--thumbnailimg-left" itemscope="" itemtype="http://schema.org/BlogPosting" style="margin-top: 10px;">
@@ -52,11 +47,6 @@
             </p>
         </div>
     </div>
-    <a href="https://www.linkcomment.com/" target="_blank">
-        <div class="postShorten-thumbnailimg">
-            <img alt="" itemprop="image" src="https://www.linkcomment.com/images/logo_with_words_960.jpg">
-        </div>
-    </a>
 </article>
 <h1 style="margin-bottom: 10px;">Repos</h1>
 <article class="postShorten postShorten--thumbnailimg-top" itemscope="" itemtype="http://schema.org/BlogPosting" style="margin-bottom: 10px;">
