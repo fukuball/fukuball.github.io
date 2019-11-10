@@ -97,3 +97,54 @@
         </div>
     </div>
 </article>
+<h1 style="margin-bottom: 10px;">Works</h1>
+<article class="postShorten postShorten--thumbnailimg-left" itemscope="" itemtype="http://schema.org/BlogPosting">
+    <div class="postShorten-wrap">
+        <div class="postShorten-header">
+            <h2 class="postShorten-title" itemprop="headline">
+                <a class="link-unstyled" href="https://www.oursong.com/" target="_blank">
+                    OurSong / Co-Founder / Head of Engineering
+                </a>
+            </h2>
+        </div>
+        <div class="postShorten-excerpt" itemprop="articleBody" style="margin-top: 0px;">
+            <p style="margin-top: 0px;">
+                OurSong 最初為亞洲媒體科技領導品牌 KKBOX 集團旗下的內部專案。集團率先提出基於區塊鏈的創意產業開放協定 — Muzeum 公共資料庫，並獲得中華民國文化部補助，遂將其運用於基礎結構，強化既有的音樂體驗，讓音樂人和粉絲能開創、購買、蒐藏、串連、交易我們稱為「歌卡」的數碼卡。OurSong 便於焉誕生，靈感源於收藏黑膠、錄音帶、CD 的黃金年代，賦予人們重新想像一種結合當今社群媒體的音樂蒐藏方式，更加深音樂人和核心粉絲在數位時代互動的優勢。
+            </p>
+        </div>
+    </div>
+</article>
+<hr>
+<article class="postShorten postShorten--thumbnailimg-left" itemscope="" itemtype="http://schema.org/BlogPosting">
+    <div class="postShorten-wrap">
+        <div class="postShorten-header">
+            <h2 class="postShorten-title" itemprop="headline">
+                <a class="link-unstyled" href="https://www.soundscape.net/" target="_blank">
+                    Soundscape 在田數位音樂發行平台 / Tech Lead
+                </a>
+            </h2>
+        </div>
+        <div class="postShorten-excerpt" itemprop="articleBody" style="margin-top: 0px;">
+            <p style="margin-top: 0px;">
+                Soundscape 在田數位音樂發行平台，讓音樂廠牌或音樂人可直接將音樂專輯、作品發行至國際各大數位音樂平台，並提供儀表板讓音樂廠牌或音樂人掌握最即時的表現數據，可以每天監控歌曲表現，快速依據市場狀況調整歌曲宣傳策略。
+            </p>
+        </div>
+    </div>
+</article>
+<hr>
+<article class="postShorten postShorten--thumbnailimg-left" itemscope="" itemtype="http://schema.org/BlogPosting">
+    <div class="postShorten-wrap">
+        <div class="postShorten-header">
+            <h2 class="postShorten-title" itemprop="headline">
+                <a class="link-unstyled" href="https://www.indievox.com/" target="_blank">
+                    iNDIEVOX 獨立音樂網 / CTO
+                </a>
+            </h2>
+        </div>
+        <div class="postShorten-excerpt" itemprop="articleBody" style="margin-top: 0px;">
+            <p style="margin-top: 0px;">
+                iNDIEVOX，indie 是「獨立」的意思，vox 是拉丁文的「聲音」。iNDIEVOX 是台灣第一個 DRM Free MP3 線上音樂商店，致力於發揚獨立音樂創作，並跨足售票服務，北中南各大 live house 場館皆有合作，並和大型音樂祭如：大港開唱、春天吶喊、屋頂音樂節結盟。
+            </p>
+        </div>
+    </div>
+</article>
