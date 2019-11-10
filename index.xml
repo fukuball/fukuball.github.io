@@ -6,18 +6,18 @@
     <description>Recent content on I am Fukuball</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
+
 	<atom:link href="https://www.fukuball.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+
+
     <item>
       <title>I am Fukuball</title>
       <link>https://www.fukuball.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.fukuball.com/</guid>
-      <description>About   我是林志傑，網路上常用的名字是 Fukuball，前 iNDIEVOX 技術長。我使用 PHP 及 Python，最近對機器學習感到興趣，所以空閒時會將 Python 有關機器學習的 Github Project 翻譯成 PHP 版本。 / 我也是一個快樂的吉他手～    Projects ObeObeKo 謳歌    ObeObeKo 謳歌是一個分享、記錄對自己有特別意義歌曲的地方，這些歌曲穿插在人生過程中成為自己的故事，分享、記錄在謳歌就能帶自己回到那個故事中，就讓我們一起謳歌吧！       LinkComment 某留    Link Comment 某留，顧名思義就是一個讓全球資訊網成為最大匿名留言板的應用，網頁上的任何資源只要能夠使用 Chrome 瀏覽，就可以變成一個留言板讓網友們進行討論，即使是 PDF 論文也可以留言討論喔！大家一起看論文、討論論文，讓知識可以累積流傳，看論文也就不再是一件孤單乏味的事情了！      Repos jieba-php    &#34;結巴&#34;中文分詞：做最好的 PHP 中文分詞、中文斷詞組件。 / &#34;Jieba&#34; (Chinese for &#34;to stutter&#34;) Chinese text segmentation: built to be the best PHP Chinese word segmentation module.</description>
+      <description>About   我是林志傑，網路上常用的名字是 Fukuball。我使用 PHP 及 Python，對機器學習及區塊鏈技術感到興趣。空閒時會將 Python 有關機器學習的 Github Project 翻譯成 PHP 版本。 / 我也是一個快樂的吉他手～    Projects ObeObeKo 謳歌    ObeObeKo 謳歌是一個分享、記錄對自己有特別意義歌曲的地方，這些歌曲穿插在人生過程中成為自己的故事，分享、記錄在謳歌就能帶自己回到那個故事中，就讓我們一起謳歌吧！       LinkComment 某留    Link Comment 某留，顧名思義就是一個讓全球資訊網成為最大匿名留言板的應用，網頁上的任何資源只要能夠使用 Chrome 瀏覽，就可以變成一個留言板讓網友們進行討論，即使是 PDF 論文也可以留言討論喔！大家一起看論文、討論論文，讓知識可以累積流傳，看論文也就不再是一件孤單乏味的事情了！      Repos jieba-php    &#34;結巴&#34;中文分詞：做最好的 PHP 中文分詞、中文斷詞組件。 / &#34;Jieba&#34; (Chinese for &#34;to stutter&#34;) Chinese text segmentation: built to be the best PHP Chinese word segmentation module.</description>
     </item>
-    
+
   </channel>
 </rss>

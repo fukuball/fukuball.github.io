@@ -19,7 +19,7 @@ showPagination: false
         </div>
         <div class="postShorten-excerpt" itemprop="articleBody" style="margin-top: 0px;">
             <p style="margin-top: 0px;">
-                我是林志傑，網路上常用的名字是 Fukuball，前 iNDIEVOX 技術長。我使用 PHP 及 Python，最近對機器學習感到興趣，所以空閒時會將 Python 有關機器學習的 Github Project 翻譯成 PHP 版本。 / 我也是一個快樂的吉他手～
+                我是林志傑，網路上常用的名字是 Fukuball。我使用 PHP 及 Python，對機器學習及區塊鏈技術感到興趣。空閒時會將 Python 有關機器學習的 Github Project 翻譯成 PHP 版本。 / 我也是一個快樂的吉他手～
             </p>
         </div>
     </div>
